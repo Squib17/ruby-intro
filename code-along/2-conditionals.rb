@@ -13,3 +13,12 @@
 # Elsif Conditional Logic
 
 # Combining Expressions
+
+# if 1 + 1 == 2
+#     puts "this is true"
+# end
+
+# if 1 + 1 == 3
+#     puts "you should not see this ever"
+#     puts "no really"
+# end

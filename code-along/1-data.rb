@@ -17,3 +17,23 @@
 # Combine strings and variables
 
 # String manipulation
+
+
+
+# Put the sum of 5 and  2 on screen
+# puts 5 + 2
+
+#Put tacos on screen
+# puts "tacos"
+
+#how to store vairable
+# x = 2
+# y = 5
+
+# #show the value of x and y on screen
+# puts x
+# puts y
+
+#write my favorite thing to the screen
+# favorite_thing = "tacos"
+# puts favorite_thing.reverse
